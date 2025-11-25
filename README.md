@@ -4,7 +4,7 @@ Aqui está uma proposta de **README.md** profissional e objetivo, estruturado co
 
 # Análise de Contagem de Espirros: Modelos de Regressão (GLM)
 
-Este repositório, de autoria de Carlos Filipe de Castro Lemos, contém a resolução da **Avaliação 2** da disciplina **SME0823 - Modelos de Regressão e Aprendizado Supervisionado II**, ministrada pela professora Cibele Russo no ICMC-USP. O projeto foca na modelagem estatística de dados de contagem do número de espirros.
+Este repositório, de autoria de Carlos Filipe de Castro Lemos, contém a resolução da **Avaliação 2** da disciplina **SME0823 - Modelos de Regressão e Aprendizado Supervisionado II**, ministrada pela professora Cibele Russo no ICMC-USP. O projeto foca na modelagem estatística de dados de contagem do número de espirros em datasets gerados artificialmente.
 
 ## 📋 Sobre o Projeto
 
